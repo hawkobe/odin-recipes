@@ -11,8 +11,9 @@ body {
     font-family: Verdana, sans-serif;
 }
 
-#times {
-    font-family: "Time-New-Roman", serif;
+#brush-script {
+    font-family: "Brush Script MT", cursive;
+    font-size: 28px;
 }
 
 .image {
