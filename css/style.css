@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+#times {
+    font-family: "Time-New-Roman", serif;
+}
+
+.image {
+    margin: auto;
+    display: block;
+    width: 60%
+}
+
+.intro {
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    width: 60%
+}
+
+.recipe {
+   text-align: center;
+   font-weight: bold;
+   margin: auto;
+   width: 60%; 
+}
+
+a {
+    color: black;
+}
+
+.ingredients {
+    background-color: rgba(0, 128, 0, .3);
+}
+
+.steps {
+    background-color: rgba(0, 128, 0, .3);
+}
+
+.steps .flavor-text {
+    background-color: white;
+}
